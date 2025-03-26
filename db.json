@@ -16,5 +16,16 @@
       "price": 80
     }
   ],
-  "cart": []
+  "cart": [
+    {
+      "id": "0ac2",
+      "productId": "2",
+      "quantity": 1
+    },
+    {
+      "id": "8f59",
+      "productId": "1",
+      "quantity": 1
+    }
+  ]
 }
